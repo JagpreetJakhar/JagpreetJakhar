@@ -48,11 +48,11 @@ Welcome to my GitHub profile! I'm a **Machine Learning Engineer** and **Software
 ---
 
 ## 🚀 Featured Projects:
-- **[Neural ODEs for Domain Wall Analysis](https://github.com/JagpreetJakhar/Neural-ODEs)**  
+- **[Neural ODEs for Domain Wall Analysis](https://github.com/JagpreetJakhar/Dissertation)**  
   Developed models to analyze copper nano wire domain walls under oscillating magnetic fields using Neural ODEs and compared results with RNNs and LSTMs.  
   **Tech Stack:** Python, PyTorch, TensorFlow.
 
-- **[Facial Recognition Neural Networks](https://github.com/JagpreetJakhar/FacialRecognition)**  
+- **[Facial Recognition Neural Networks](https://github.com/JagpreetJakhar/Facial_Recognition)**  
   Contributed to CNN-based facial recognition systems utilizing Python, OpenCV, and dlib.
 
 ---
