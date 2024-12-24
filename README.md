@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a **Machine Learning Engineer** and **Software
 - **Graduate Teaching Assistant** - [University of Sheffield](https://www.sheffield.ac.uk)  
   Supporting students in Big Data Analytics, Database Design, and Data Modelling using tools like Databricks, AWS, SQLite, and Python.
 
-- **Software Developer** - Swig Solutions, India  
+- **Software Engineer** - Swig Solutions, India  
   Designed and developed responsive, user-friendly web applications tailored for diverse client needs.
 
 - **Industrial Trainee** - Codeburnerz Technologies, India  
