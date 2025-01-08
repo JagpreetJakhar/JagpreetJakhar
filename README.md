@@ -48,7 +48,7 @@ Welcome to my GitHub profile! I am a skilled Software Engineer specializing in C
 ---
 
 ## 🚀 Featured Projects:
-- **[Football Analysis Using Computer Vision]([https://github.com/JagpreetJakhar/Facial_Recognition](https://github.com/JagpreetJakhar/football_analytics))**  
+- **[Football Analysis Using Computer Vision](https://github.com/JagpreetJakhar/football_analytics)**  
   This project analyses football matches using advanced computer vision techniques, including YOLO for object detection (players, ball, referees),ByteTrack for tracking movements and
 KMeans and SigLip for team classification.
 - **[Neural ODEs for Domain Wall Analysis](https://github.com/JagpreetJakhar/Dissertation)**  
