@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Jagpreet Jakhar!
 
-Welcome to my GitHub profile! I'm a **Machine Learning Engineer** and **Software Engineer** with a strong foundation in web development and a deep interest in Computer Vision. Passionate about leveraging technology to solve complex problems, I enjoy working on **Non-Linear Dynamical Systems**, **Computer Vision**.
+Welcome to my GitHub profile! I am a skilled Software Engineer specializing in Computer Vision, with a focus on object detection, tracking, and motion planning. I hold a Master's degree with distinction in Cybersecurity and Artificial Intelligence from the University of Sheffield, England.
 
 ---
 
@@ -48,6 +48,9 @@ Welcome to my GitHub profile! I'm a **Machine Learning Engineer** and **Software
 ---
 
 ## 🚀 Featured Projects:
+- **[Football Analysis Using Computer Vision]([https://github.com/JagpreetJakhar/Facial_Recognition](https://github.com/JagpreetJakhar/football_analytics))**  
+  This project analyses football matches using advanced computer vision techniques, including YOLO for object detection (players, ball, referees),ByteTrack for tracking movements and
+KMeans and SigLip for team classification.
 - **[Neural ODEs for Domain Wall Analysis](https://github.com/JagpreetJakhar/Dissertation)**  
   Developed models to analyze copper nano wire domain walls under oscillating magnetic fields using Neural ODEs and compared results with RNNs and LSTMs.  
   **Tech Stack:** Python, PyTorch, TensorFlow.
