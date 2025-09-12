@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I am a skilled Software Engineer specializing in C
 
 ## 🏆 Work Experience:
 - **Machine Learning Engineer** - [Idea Enterprises](https://www.linkedin.com/company/idea-enterprises-llc/)
-- Computer Vision
+   Computer Vision
 - **Graduate Teaching Assistant** - [University of Sheffield](https://www.sheffield.ac.uk)  
   Supporting students in Big Data Analytics, Database Design, and Data Modelling using tools like Databricks, AWS, SQLite, and Python.
 
