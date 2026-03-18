@@ -16,7 +16,6 @@ Welcome to my GitHub profile! I am a skilled Software Engineer specializing in C
 ![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
 ![GStreamer](https://img.shields.io/badge/-GStreamer-FF6F00?style=flat&logo=gstreamer&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
@@ -52,7 +51,11 @@ Welcome to my GitHub profile! I am a skilled Software Engineer specializing in C
 
 ## 🚀 Featured Projects:
 - **[Football Analysis Using Computer Vision](https://github.com/JagpreetJakhar/football_analytics)**  
-  This project analyses football matches using advanced computer vision techniques, including YOLO for object detection (players, ball, referees), ByteTrack for tracking movements, and KMeans and SigLip for team classification.  
+  This project analyses football matches using advanced computer vision techniques, including YOLO for object detection (players, ball, referees), ByteTrack for tracking movements, and KMeans and SigLip for team classification.
+
+- **[Region of Interest Multi object Tracking](https://github.com/JagpreetJakhar/ROI_MOT_Deepstream)**  
+   Dockerized NVIDIA DeepStream 8.0 application that performs Object Detection, Multi-Object Tracking (MOT), and Region of Interest (ROI) analysis.  
+  **Tech Stack:** C++,Gstreamer,Deepstream,Docker.  
 
 - **[Neural ODEs for Domain Wall Analysis](https://github.com/JagpreetJakhar/Dissertation)**  
   Developed models to analyze copper nano wire domain walls under oscillating magnetic fields using Neural ODEs and compared results with RNNs and LSTMs.  
